@@ -6,7 +6,7 @@ import {
   View
 } from 'react-native';
 
-const clientId = '5a52ec73f9d4de59720295838d965cca';
+const clientId = "PUT THE OPEN WEATHER CLIENT ID HERE";
 
 const Weather = (props) => {
   const [weather, setWeather] = useState(null);

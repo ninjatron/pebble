@@ -20,8 +20,8 @@ import Weather from './screens/weather';
 import Token from './screens/token';
 
 const auth0 = new Auth0({ 
-  domain: 'aysad.us.auth0.com', 
-  clientId: 'owNIC1R1npKkG9slpm9M0LTr0lOzH4Hq' 
+  domain: 'AUTH0 DOMAIN',
+  clientId: 'AUTH0 CLIENT ID' 
 });
 
 const BottomTabs = createBottomTabNavigator();
